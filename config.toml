@@ -2,6 +2,7 @@ baseurl = "http://www.example.com"
 title = "AaronBush.info"
 
 theme = "hugo-coder"
+publishDir = "public"
 
 languagecode = "en"
 defaultcontentlanguage = "en"
